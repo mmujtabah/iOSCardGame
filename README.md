@@ -11,7 +11,7 @@ The higher card wins the round and gets one point.
 
 ## Screenshot
 
-![Card Game Screenshot](Screenshot%202026-04-19%20at%2013.29.05.png)
+<img src="Screenshot%202026-04-19%20at%2013.29.05.png" alt="Card Game Screenshot" width="360" />
 
 ## Run Locally
 
